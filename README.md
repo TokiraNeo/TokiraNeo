@@ -1,5 +1,4 @@
-<h1 align="center">Hi,I am TokiraNeo</h1>
-<h3 align="center">(✧◡✧)</h3>
+<h1 align="center">TokiraNeo (✧◡✧)</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tokiraneo&show_icons=true&theme=dracula&title_color=f4a4e9&text_color=6fc5fb&bg_color=ffffff&locale=en&layout=compact" alt="tokiraneo" /></p>
 
