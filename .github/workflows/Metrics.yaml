@@ -1,0 +1,56 @@
+name: Merics
+
+on:
+  # 定时触发(每天运行一次)
+  schedule:
+    - cron: "0 0 * * *"
+
+  # 手动触发
+  workflow_dispatch:
+
+  #提交时触发
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 检出代码库
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 运行Matrics
+      - name: Run Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.TOKIRANEO_PROFILE }}
+          user: TokiraNeo
+          config_timezone: Asia/Shanghai
+
+          # Options
+          template: classic
+          base: header, repositories, metadata
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_languages_other: yes
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+
+          plugin_topics: yes # 仓库主题标签
+          plugin_topics_limit: 0 # 显示全部主题 (0=无限制)
+          plugin_topics_mode: icons # 以图标形式显示
