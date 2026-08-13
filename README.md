@@ -12,13 +12,13 @@
 
 <div align="center">
   <a href="https://github.com/TokiraNeo/Bento">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TokiraNeo&repo=Bento&bg_color=F8FAFC&title_color=6366F1&text_color=64748B&icon_color=2DD4BF&border_color=C4B5FD" alt="Bento" />
+    <img src="https://socialify.git.ci/TokiraNeo/Bento/image?description=1&amp;font=Inter&amp;language=1&amp;name=1&amp;owner=0&amp;pattern=Plus&amp;stargazers=1&amp;theme=Light&amp;color=93C5FD" alt="Bento" width="400" />
   </a>
   <a href="https://github.com/TokiraNeo/NekiraReflect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TokiraNeo&repo=NekiraReflect&bg_color=F8FAFC&title_color=6366F1&text_color=64748B&icon_color=2DD4BF&border_color=C4B5FD" alt="NekiraReflect" />
+    <img src="https://socialify.git.ci/TokiraNeo/NekiraReflect/image?description=1&amp;font=Inter&amp;language=1&amp;name=1&amp;owner=0&amp;pattern=Plus&amp;stargazers=1&amp;theme=Light&amp;color=93C5FD" alt="NekiraReflect" width="400" />
   </a>
   <a href="https://github.com/TokiraNeo/NekiraDelegate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TokiraNeo&repo=NekiraDelegate&bg_color=F8FAFC&title_color=6366F1&text_color=64748B&icon_color=2DD4BF&border_color=C4B5FD" alt="NekiraDelegate" />
+    <img src="https://socialify.git.ci/TokiraNeo/NekiraDelegate/image?description=1&amp;font=Inter&amp;language=1&amp;name=1&amp;owner=0&amp;pattern=Plus&amp;stargazers=1&amp;theme=Light&amp;color=93C5FD" alt="NekiraDelegate" width="400" />
   </a>
 </div>
 
