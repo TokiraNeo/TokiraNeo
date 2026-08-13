@@ -11,29 +11,28 @@
 ## Featured
 
 <div align="center">
+  <img src="./github-metrics.svg" alt="Metrics" width="60%" />
+</div>
+
+<div align="center">
   <table>
     <tr>
       <td width="260">
         <a href="https://github.com/TokiraNeo/Bento">
-          <img src="https://socialify.git.ci/TokiraNeo/Bento/image?description=1&amp;font=Inter&amp;language=1&amp;name=1&amp;owner=0&amp;pattern=Plus&amp;stargazers=1&amp;theme=Light&amp;color=93C5FD" alt="Bento" width="260" />
+            <img src="https://socialify.git.ci/TokiraNeo/Bento/image?description=1&font=Inter&language=1&name=1&theme=Light" alt="Bento" width="260" />
         </a>
       </td>
       <td width="260">
         <a href="https://github.com/TokiraNeo/NekiraReflect">
-          <img src="https://socialify.git.ci/TokiraNeo/NekiraReflect/image?description=1&amp;font=Inter&amp;language=1&amp;name=1&amp;owner=0&amp;pattern=Plus&amp;stargazers=1&amp;theme=Light&amp;color=93C5FD" alt="NekiraReflect" width="260" />
+            <img src="https://socialify.git.ci/TokiraNeo/NekiraReflect/image?description=1&font=Inter&language=1&name=1&theme=Light" alt="NekiraReflect" width="260" />
         </a>
       </td>
       <td width="260">
-        <a href="https://github.com/TokiraNeo/NekiraDelegate">
-          <img src="https://socialify.git.ci/TokiraNeo/NekiraDelegate/image?description=1&amp;font=Inter&amp;language=1&amp;name=1&amp;owner=0&amp;pattern=Plus&amp;stargazers=1&amp;theme=Light&amp;color=93C5FD" alt="NekiraDelegate" width="260" />
+          <img src="https://socialify.git.ci/TokiraNeo/NekiraDelegate/image?description=1&font=Inter&language=1&name=1&theme=Light" alt="NekiraDelegate" width="260" />
         </a>
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="Metrics" width="60%" />
 </div>
 
 <div align="center">
